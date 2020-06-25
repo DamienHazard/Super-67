@@ -7,7 +7,7 @@ To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-
 
 # README
 
-Super 67 3D Printable camera made by Damien A.W. Humby.
+The Super 67 3D Printable camera is made by Damien A.W. Humby.
 Github: https://github.com/DamienHazard/Super-67
 
 This is not a final/optimal product as it's free and open source. 
