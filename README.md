@@ -8,6 +8,7 @@ To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-
 # README
 
 The Super 67 3D Printable camera is made by Damien A.W. Humby.
+
 Github: https://github.com/DamienHazard/Super-67
 
 This is not a final/optimal product as it's free and open source. 
@@ -42,3 +43,7 @@ Projects like this aren't cheap, and I've dedicated a lot of my time to work on 
 please consider donating or share the project with others so we can get as many people as possible to bring this project to the next level.
 patreon: https://www.patreon.com/Hazard
 Paypal: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YAQUE44D32B9G&source=url
+
+# Attributions
+
+The graflok section of this camera is based the original G-adapter made by rodgsilva (https://www.thingiverse.com/thing:4249403) , modified by Thnikkamax(https://www.thingiverse.com/thnikkamax/about) for correct FFD and further modified by Cynical_potatetoe to optimize it and make it fit the Argent eyes style, and further modified by me for additional light seals and fixes.
