@@ -31,6 +31,12 @@ If you share your builds on instagram or twitter, be sure to use the #HumbyProdu
 v0.5 BETA RELEASE.
      Initial public release
 
+v1.0 Stable Version
+* Added printable 1/4 20" and 3/8 16" tripod adapters
+* Added Printable adapter intended to be used with 1/4 20" heat set inserts
+* Edited Cone to Take tripod adapters
+
+
 # BOM
 
 m4 brass inserts: https://www.amazon.co.uk/threaded-RX-M5x9-5-Threaded-Press-fit-ultrasound/dp/B07YSV66Y5?th=1
