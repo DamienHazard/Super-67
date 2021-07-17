@@ -37,7 +37,7 @@ v1.0 Stable Version
 * Edited Cone to Take tripod adapters
 
 17.jul.21 
-*Added Beta super 69 parts. use at own risk. 
+* Added Beta super 69 parts. use at own risk. 
 
 
 # BOM
