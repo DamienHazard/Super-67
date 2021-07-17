@@ -36,6 +36,9 @@ v1.0 Stable Version
 * Added Printable adapter intended to be used with 1/4 20" heat set inserts
 * Edited Cone to Take tripod adapters
 
+17.jul.21 
+*Added Beta super 69 parts. use at own risk. 
+
 
 # BOM
 
